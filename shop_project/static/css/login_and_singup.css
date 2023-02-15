@@ -1,0 +1,122 @@
+#loginfrom {
+    position: absolute;
+    left: 20rem;
+    top: 3rem
+}
+
+#loginfrom .btn-close {
+    float: right;
+    position: relative;
+    /* left: 5rem; */
+    top: -2.5rem;
+
+}
+
+#loginfrom input {
+    width: 357px;
+    
+    border:0;
+    border-bottom: 1px solid rgb(0, 26, 255);
+    outline: none;
+    background: transparent;
+}
+
+#loginfrom p {
+    font-size: 13px;
+    color: rgb(150, 148, 148);
+}
+
+#loginfrom #accne22 {
+    position: relative;
+    top: 6rem;
+    border: none;
+    background: none;
+    color: rgb(0, 60, 255);
+    font-size: 17px;
+}
+#loginfrom #otpinput{
+    display: none;
+}
+#loginfrom #acne {
+    border: none;
+    width: 280px;
+    height: 50px;
+    position: relative;
+    top: 2rem;
+}
+
+#loginfrom #lbn {
+    /* text-align: center; */
+    border: none;
+    width: 280px;
+    height: 50px;
+
+    background: orange;
+
+}
+
+
+#singbuton{
+    display: none;
+    border: none;
+    width: 280px;
+    height: 50px;
+    background: orange;
+}
+
+#login_form_btn{
+    border: none;
+    width: 280px;
+    height: 50px;
+    background: orange;
+}
+#chance_number_btn{
+    display:none;
+    position: relative;
+    left:23rem;
+    top: -1.5rem;
+
+    border:none;
+    background: none;
+    color: rgb(0, 89, 255);
+
+
+}
+#otp_resend{
+    display: none;
+}
+#otp_resend li{
+    list-style: none;
+}
+
+#otp_resend li button{
+    position: relative;
+    left:12.6rem;
+    border:none;
+    background: none;
+    color: rgb(0, 89, 255);
+
+}
+/* hover of ul heder  */
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
+
+#form1_login{
+    display: none;
+}
+
+#form1_login #login_otp_very{
+    position:relative;
+    top: -15rem;
+    display: none;
+
+}
+#form1_login #login_otp_very #veryfytesxt_btn_etc{
+    width: 250px;
+    height: auto;
+    font-size: 18px;
+}
